@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receita de Pho</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <section class="recipe-page">
+        <h2>Receita de Pho</h2>
+        <img src="pho.jpg" alt="Pho" style="width:300px;">
+        <p>O Pho é uma sopa vietnamita de macarrão de arroz, famosa pelo seu caldo aromático e saboroso.</p>
+        
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>250g de macarrão de arroz</li>
+            <li>500g de carne (frango ou carne bovina)</li>
+            <li>2 litros de caldo de carne</li>
+            <li>1 cebola cortada ao meio</li>
+            <li>5 fatias de gengibre</li>
+            <li>Ervas frescas (manjericão, coentro, hortelã)</li>
+            <li>Molho de soja e limão a gosto</li>
+            <li>Broto de feijão para servir</li>
+        </ul>
+
+        <h3>Instruções:</h3>
+        <ol>
+            <li>Em uma panela, torre a cebola e o gengibre até ficarem dourados.</li>
+            <li>Adicione o caldo de carne e a carne. Cozinhe até que a carne esteja macia.</li>
+            <li>Retire a carne, fatie e reserve. Coe o caldo para remover os sólidos.</li>
+            <li>Cozinhe o macarrão de arroz conforme as instruções da embalagem.</li>
+            <li>Monte o prato com o macarrão, a carne, o caldo e as ervas frescas. Sirva com molho de soja e limão.</li>
+        </ol>
+
+        <a href="asia.html">Voltar para as Receitas da Ásia</a>
+    </section>
+
+</body>
+</html>
