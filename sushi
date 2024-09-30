@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receita de Sushi</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <section class="recipe-page">
+        <h2>Receita de Sushi</h2>
+        <img src="sushi.jpg" alt="Sushi" style="width:300px;">
+        <p>O sushi é um prato japonês que consiste em arroz temperado com vinagre, açúcar e sal, combinado com peixe cru ou outros ingredientes.</p>
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>Arroz para sushi</li>
+            <li>Vinagre de arroz</li>
+            <li>Peixe fresco (salmão, atum, etc.)</li>
+            <li>Alga nori</li>
+            <li>Vegetais (como pepino ou abacate)</li>
+        </ul>
+        <h3>Instruções:</h3>
+        <ol>
+            <li>Cozinhe o arroz para sushi e deixe esfriar.</li>
+            <li>Tempere o arroz com vinagre de arroz.</li>
+            <li>Coloque uma folha de alga nori em uma esteira de sushi.</li>
+            <li>Espalhe uma camada de arroz sobre a alga.</li>
+            <li>Adicione o peixe e os vegetais de sua escolha.</li>
+            <li>Enrole firmemente e corte em pedaços.</li>
+        </ol>
+        <a href="asia.html">Voltar para as Receitas da Ásia</a>
+    </section>
+
+</body>
+</html>
+
