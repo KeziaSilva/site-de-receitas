@@ -61,9 +61,12 @@ button:hover {
 
 /* Página dos Continentes */
 .continents-page {
-    background-color: white;
-    padding: 50px 0;
-    text-align: center;
+    background-image: url('word.jpeg'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área */
+    background-position: center; /* Centraliza a imagem */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .continents-page img {
@@ -73,11 +76,15 @@ button:hover {
 }
 
 .continent-buttons button {
-    padding: 15px 30px;
-    font-size: 20px;
-    background-color: #2196F3;
-    color: white;
-    border-radius: 10px;
+    background-color: white; /* Fundo branco para os botões */
+    color: black; /* Texto preto */
+    border: none; /* Remove bordas padrão */
+    padding: 15px 30px; /* Espaçamento interno */
+    margin: 10px; /* Margem entre os botões */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável */
+    font-size: 1.2em; /* Aumenta o tamanho da fonte */
+    border-radius: 5px; /* Arredonda os cantos dos botões */
+    transition: background-color 0.3s; /* Efeito de transição */
 }
 
 /* Página de Receitas */
