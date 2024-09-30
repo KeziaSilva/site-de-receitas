@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receita de Curry</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <section class="recipe-page">
+        <h2>Receita de Curry</h2>
+        <img src="curry.jpg" alt="Curry" style="width:300px;">
+        <p>O curry é um prato popular em várias cozinhas, feito com especiarias aromáticas e pode incluir carne, peixe ou vegetais.</p>
+        
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>500g de carne (frango, carne bovina ou tofu)</li>
+            <li>1 cebola picada</li>
+            <li>2 dentes de alho picados</li>
+            <li>1 colher de sopa de curry em pó</li>
+            <li>400ml de leite de coco</li>
+            <li>Vegetais variados (como batata, cenoura, ervilhas)</li>
+            <li>Sal e pimenta a gosto</li>
+            <li>Coentro para decorar</li>
+        </ul>
+
+        <h3>Instruções:</h3>
+        <ol>
+            <li>Aqueça um pouco de óleo em uma panela e adicione a cebola e o alho. Refogue até dourar.</li>
+            <li>Adicione a carne ou tofu e cozinhe até dourar.</li>
+            <li>Adicione o curry em pó e misture bem.</li>
+            <li>Despeje o leite de coco e adicione os vegetais. Cozinhe até que tudo esteja macio.</li>
+            <li>Tempere com sal e pimenta a gosto. Sirva com arroz e decore com coentro.</li>
+        </ol>
+
+        <a href="asia.html">Voltar para as Receitas da Ásia</a>
+    </section>
+
+</body>
+</html>
