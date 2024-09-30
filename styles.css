@@ -5,9 +5,9 @@ body {
     font-style: normal;
     margin: 0;
     padding: 0;
-    background-color: #FFDAB9;
+    background-color: #df7a2d;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 h1, h2 {
@@ -24,7 +24,7 @@ button {
     padding: 10px 20px;
     font-size: 18px;
     margin: 10px;
-    background-color: #4CAF50;
+    background-color: white;
     color: white;
     border: none;
     cursor: pointer;
@@ -41,7 +41,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #ff7f4c;
+    background-color: #df7a2d;
 }
 
 .intro-content {
@@ -85,7 +85,7 @@ button:hover {
 }
 
 .asia-page {
-    background-color: #ff7f4c;
+    background-color: #ffd0ac;
     padding: 50px 0;
 }
 
@@ -96,7 +96,7 @@ button:hover {
     cursor: pointer;
 }
 .america-page {
-    background-color: #ff7f4c;
+    background-color: #ffd0ac;
     padding: 50px 0;
 }
 
@@ -107,7 +107,7 @@ button:hover {
     cursor: pointer;
 }
 .antartica-page {
-    background-color: #ff7f4c;
+    background-color: #ffd0ac;
     padding: 50px 0;
 }
 
@@ -118,7 +118,7 @@ button:hover {
     cursor: pointer;
 }
 .africa-page {
-    background-color: #ff7f4c;
+    background-color: #ffd0ac;
     padding: 50px 0;
 }
 
@@ -129,7 +129,7 @@ button:hover {
     cursor: pointer;
 }
 .europa-page {
-    background-color: #ff7f4c;
+    background-color: #ffd0ac;
     padding: 50px 0;
 }
 
@@ -140,7 +140,7 @@ button:hover {
     cursor: pointer;
 }
 .oceania-page {
-    background-color: #ff7f4c;
+    background-color: #ffd0ac;
     padding: 50px 0;
 }
 
