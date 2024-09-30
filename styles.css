@@ -1,0 +1,94 @@
+/* Estilos Básicos */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFDAB9;
+    text-align: center;
+    color: white;
+}
+
+h1, h2 {
+    font-family: 'Cursive', sans-serif;
+    color: white;
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Página de Introdução */
+.intro-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #FFDAB9;
+}
+
+.intro-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.intro-title {
+    font-size: 3rem;
+}
+
+.intro-content img {
+    width: 300px;
+    height: auto;
+    margin-left: 20px;
+}
+
+/* Página dos Continentes */
+.continents-page {
+    background-color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.continents-page img {
+    width: 400px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.continent-buttons button {
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #2196F3;
+    color: white;
+    border-radius: 10px;
+}
+
+/* Página de Receitas */
+.recipe-page {
+    background-color: #FFDAB9;
+    padding: 50px 0;
+}
+
+.recipe-list img {
+    width: 200px;
+    height: auto;
+    margin: 15px;
+    cursor: pointer;
+}
